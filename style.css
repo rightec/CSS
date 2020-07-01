@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    background: red;
+    width: 60%;
+    color: white;
+    font-family: 'Roboto', cursive, sans-serif;
+}
+
+#titolo{
+    color: green;
+    width: 200px;
+    box-sizing: content-box;
+}
+
+#second_section{
+    margin: 20px;
+    border: 20px solid black;
+    background-color: green;
+}

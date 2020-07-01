@@ -1,0 +1,40 @@
+
+/*
+* {
+    box-sizing: border-box;
+}
+*/
+
+
+.head_block{
+    margin: 0px;
+    background-color: red;
+    width: 50%; 
+}
+
+#menutitle{
+    padding: 0px 0px 0px 40px;
+}
+
+
+.gen_section{
+    margin: 0px;
+    margin-top: 20px;
+    border: 5px solid black;
+    padding-right: 35px;
+    width: 50%;
+}
+
+/*
+.dott_section{
+    margin: 0px;
+    margin-top: 20px;;
+    border: 5px dotted black;
+    width: 50%;
+    padding-right: 35px;
+}
+*/
+
+#dott_item{
+    border: 5px dotted black;
+}
